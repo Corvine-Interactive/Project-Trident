@@ -1,0 +1,81 @@
+#################################
+# Unreal Engine generated files
+#################################
+**/Binaries/**
+**/DerivedDataCache/**
+**/Intermediate/**
+**/Saved/**
+
+# Packaged builds and staged output
+/Windows/
+/WindowsNoEditor/
+/Linux/
+/LinuxNoEditor/
+/Mac/
+/MacNoEditor/
+/Android/
+/IOS/
+/Builds/
+/Releases/
+**/Build/Windows/
+**/Build/Linux/
+**/Build/Mac/
+**/Build/Android/
+**/Build/IOS/
+
+# Unreal per-user editor settings
+**/Config/DefaultEditorPerProjectUserSettings.ini
+
+# Logs / crash data
+*.log
+**/Crashes/
+**/CrashReportClient/
+
+# Temporary/back-up files
+*.tmp
+*.bak
+*.old
+*.orig
+
+#################################
+# Visual Studio / VS Code
+#################################
+.vs/
+.vscode/
+**/.history/
+
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.opendb
+*.ipch
+
+*.suo
+*.user
+*.userosscache
+*.rsuser
+*.sln.docstates
+
+#################################
+# JetBrains Rider / IntelliJ
+#################################
+.idea/
+*.sln.DotSettings.user
+
+#################################
+# OS junk
+#################################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+#################################
+# Generated IDE project files
+#################################
+*.sln
+*.csproj
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
